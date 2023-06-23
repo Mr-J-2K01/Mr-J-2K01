@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **Bootstrap, CSS**
+- 🌱 I’m currently learning **Bootstrap, CSS, Javascript**
 
 - 💬 Ask me about **Bootstrap, HTML, CSS, JAVA, PYTHON**
 
