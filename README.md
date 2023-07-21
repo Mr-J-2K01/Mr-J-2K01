@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Javedbasha Shaik</h1>
 <h2 align="center"> You can call me Javed ☕</h2>
-<h3 align="center">An Aspiring Frontend developer 🧡 and a Freelancer 💚 from India 🇮🇳</h3>
+<h3 align="center">An Aspiring Frontend developer 🧡 from India 🇮🇳</h3>
+<h3 align="center"> Freelancer 💚 </h3>
 <h5 align="center">Thank you Visiting my profile ☺</h5>
 <h6 align="center">Have a Great day 👍 & Happy Coding! 🙂</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-J-2K01&label=Profile%20views&color=0e75b6&style=flat" alt="Javedbasha" /> </p>
