@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Frontend**
 
 
-- 📫 How to reach me **javedbasha472@gmail.com**
+- 📫 How to reach me **skjavedbasha12@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
