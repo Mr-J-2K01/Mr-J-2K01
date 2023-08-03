@@ -7,7 +7,7 @@
 
 <h5 align="center">Thank you Visiting my profile ☺</h5>
 <h6 align="center">Have a Great day 👍 & Happy Coding! 🙂</h6>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-J-2K01&label=Profile%20views&color=0e75b6&style=flat" alt="Javedbasha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Javed-basha&label=Profile%20views&color=0e75b6&style=flat" alt="Javedbasha" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-J-2K01" alt="Javedbasha" /></a> </p>
 <p align="left"> <a href="https://twitter.com/javed__2541" target="blank"><img src="https://img.shields.io/twitter/follow/javed__2541?logo=twitter&style=for-the-badge" alt="javed__2541" /></a> </p>
 
@@ -35,10 +35,10 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mr-J-2K01&&theme=xcode)](https://github.com/Mr-J-2K01)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-J-2K01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Javed-basha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iam-Javed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Javed-basha" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-J-2K01&&theme=tokyonight" alt="Javedbasha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iam-Javed&&theme=tokyonight" alt="Javedbasha" /></p>
 
 ### ✍️ Random Dev Quote
 <p align="justify">Like a butterfly 🦋 emerging from its cocoon, the electronics communication student undergoes a metamorphosis, spreading their wings as a software developer, ready to soar in the realm of digital innovation</p>
