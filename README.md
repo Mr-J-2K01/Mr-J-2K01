@@ -8,7 +8,7 @@
 <h5 align="center">Thank you Visiting my profile ☺</h5>
 <h6 align="center">Have a Great day 👍 & Happy Coding! 🙂</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Javed-basha&label=Profile%20views&color=0e75b6&style=flat" alt="Javedbasha" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-J-2K01" alt="Javedbasha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Im-Javed" alt="Javedbasha" /></a> </p>
 <p align="left"> <a href="https://twitter.com/javed__2541" target="blank"><img src="https://img.shields.io/twitter/follow/javed__2541?logo=twitter&style=for-the-badge" alt="javed__2541" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend**
