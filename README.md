@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Javedbasha Shaik</h1>
 <h2 align="center"> You can call me Javed ☕</h2>
-<h3 align="center">An Aspiring Frontend developer 🇮🇳
+<h3 align="center">An Aspiring Software developer 🇮🇳
 <pre> Freelancer from India 🇮🇳  </pre> </h3>
 
 <h5 align="center">Thank you Visiting my profile ☺</h5>
